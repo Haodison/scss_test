@@ -6,5 +6,13 @@ body {
 
 form {
   display: flex;
-  flex-direction: center;
+}
+form input {
+  border: none;
+  outline: none;
+  width: 100%;
+  text-align: center;
+}
+form input:hover {
+  border: solid #000 4px;
 }/*# sourceMappingURL=style.css.map */
