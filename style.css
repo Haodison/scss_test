@@ -15,4 +15,14 @@ form input {
 }
 form input:hover {
   border: solid #000 4px;
+}
+form button {
+  width: 70%;
+  padding: 20px 10px;
+  color: #461d1d;
+}
+form button:hover {
+  transition: ease 0.5s;
+  color: #000;
+  background-color: #c53131;
 }/*# sourceMappingURL=style.css.map */
